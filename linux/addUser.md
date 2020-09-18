@@ -13,6 +13,7 @@ $ adduser frank
 **如果使用个人用户是没有权限操作的，只能使用root用户**
 
 现在可以查看`home`目录下，会发现多出一个`frank`的文件夹
+
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ec4f04cbd1924116a77c00ca6e3ae0fa~tplv-k3u1fbpfcp-zoom-1.image)
 
 ## 删除用户
