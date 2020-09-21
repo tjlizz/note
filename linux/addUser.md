@@ -15,6 +15,16 @@ $ adduser frank
 现在可以查看`home`目录下，会发现多出一个`frank`的文件夹
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ec4f04cbd1924116a77c00ca6e3ae0fa~tplv-k3u1fbpfcp-zoom-1.image)
+## 修改密码
+拿到管理员给创建的用户之后，一般情况下我们都要修改一下默认密码，修改密码的命令是`passwd `，用法和`adduser`类似，后面加上用户名即可。
+
+下面修改一下`frank`的默认密码
+```shell
+$ passwd frank
+```
+![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/baa2c183952e49ac923c87d98460327d~tplv-k3u1fbpfcp-zoom-1.image)
+
+> 命令后面也可以不加用户名，默认是当前用户
 
 ## 删除用户
 能添加用户，那就肯定可以删除用户的，下面就使用`deluser`命令来删除用户
