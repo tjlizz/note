@@ -29,7 +29,7 @@ $ passwd frank
 ## 删除用户
 能添加用户，那就肯定可以删除用户的，下面就使用`deluser`命令来删除用户
 
-`deluser` 是 `delete` 和 `use`r 的缩写，delete 是`删除`的意思，user 是`用户`的意思。合在一起就是`删除用户`
+`deluser` 是 `delete` 和 `user` 的缩写，delete 是`删除`的意思，user 是`用户`的意思。合在一起就是`删除用户`
 
 用法和`adduser`是一样的，如下
 
