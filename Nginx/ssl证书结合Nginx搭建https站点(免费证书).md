@@ -51,3 +51,10 @@
   ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d265c343d89042e4bca60e58e6021324~tplv-k3u1fbpfcp-watermark.image)
 
    因为我们的证书没有给相关机构认证，所以还是提示不安全，但是不影响我们测试使用
+ 
+
+ 如果想部署个人服务器的话可以在各大服务器厂商申请免费的ssl证书，也是很方便的，前提是要有自己的域名。
+
+ 我是在[腾讯云](https://console.cloud.tencent.com/ssl)申请的免费`ssl`证书。按照官网的提示操作很简单的。
+
+ ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f366daaaaa0b43c2bffda7e100d72c4b~tplv-k3u1fbpfcp-watermark.image)
