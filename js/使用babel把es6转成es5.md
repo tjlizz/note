@@ -8,10 +8,10 @@ Babel 是一个工具链，主要用于将 ECMAScript 2015+ 版本的代码转�
 ## NodeJs
 
 ###  使用 `npm` 初始化项目
-  ```shell script
+
+```shell script
 $ mkdir es6-to-es5
 $ npm init -y
-
 ```
    
 ### 安装Babel
@@ -19,7 +19,7 @@ $ npm init -y
 $ npm install --save-dev @babel/core @babel/cli
 ```
 
-   安装完成之后, 你的 `package.json` 会加入这些代码
+安装完成之后, 你的 `package.json` 会加入这些代码
    
 
 ```json5
