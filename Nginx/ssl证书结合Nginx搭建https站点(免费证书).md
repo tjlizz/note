@@ -57,4 +57,4 @@
 
  我是在[腾讯云](https://console.cloud.tencent.com/ssl)申请的免费`ssl`证书。按照官网的提示操作很简单的。
 
- ![](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f366daaaaa0b43c2bffda7e100d72c4b~tplv-k3u1fbpfcp-watermark.image)
+  ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f84c40fa580a4a1fbc14bcca2c5433a4~tplv-k3u1fbpfcp-watermark.image)
