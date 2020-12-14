@@ -19,5 +19,8 @@
   * [nvm安装node](./Node/nvm安装node.md)
 # python
   * [python控制台输出颜色字体](./python控制台输出颜色.md)
+# webChat
+  
+  * [扫一扫登录](./webChat/扫一扫登录.md)
   
 
