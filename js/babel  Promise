@@ -1,0 +1,12 @@
+```
+{
+  "presets": [ ["@babel/preset-env"]],
+  "plugins": [
+    "@babel/plugin-transform-runtime"
+  ]
+}
+```
+
+```
+npm i     "@babel/plugin-transform-runtime": "^7.12.1",
+```
