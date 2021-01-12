@@ -21,7 +21,7 @@ public class AutoPrefixUrlMapping extends RequestMappingHandlerMapping {
         return dotPath.replace(".", "/");
     }
 }
-```
+``` 
 
 * AutoPrefixConfiguration.java
 ```java
