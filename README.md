@@ -19,9 +19,9 @@
   * [nvm安装node](./Node/nvm安装node.md)
 # python
   * [python控制台输出颜色字体](./python控制台输出颜色.md)
-# webChat
+# weChat
   
-  * [扫一扫登录](./webChat/扫一扫登录.md)
+  * [扫一扫登录](./weChat/扫一扫登录.md)
   
 # java
  *  [api地址自动增加前缀](./Java/api自动增加前缀.md)
