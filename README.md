@@ -27,3 +27,5 @@
  *  [api地址自动增加前缀](./Java/api自动增加前缀.md)
  *  [springboot使用@value注入静态属性](./Java/Springboot使用@value注入静态属性.md)
  * [MyBatis-Plus通用查询工具类](./Java/MyBatis-Plus通用查询工具类.md)
+ * [搭建maven私有仓库](./Java/搭建maven私有仓库.md)
+
