@@ -28,4 +28,5 @@
  *  [springboot使用@value注入静态属性](./Java/Springboot使用@value注入静态属性.md)
  * [MyBatis-Plus通用查询工具类](./Java/MyBatis-Plus通用查询工具类.md)
  * [搭建maven私有仓库](./Java/搭建maven私有仓库.md)
+ * [Java全局异常捕获处理](./Java/Java全局异常捕获处理.md)
 
