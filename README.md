@@ -12,6 +12,7 @@
  * [ssl证书结合Nginx搭建https站点（免费证书)](./Nginx/ssl证书结合Nginx搭建https站点(免费证书).md)
 # JS
  * [使用babel把es6转成es5](./js/使用babel把es6转成es5.md)
+ * [proxy语法](./js/proxy.md)
 
 # git
   * [git基础配置](./Git/git配置ssh.md)
